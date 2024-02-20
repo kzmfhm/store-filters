@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 import Navigation from "./Navigation/Nav";
 import Products from "./Products/Products";
 import products from "./db/data";
@@ -43,10 +42,10 @@ function App() {
     // Applying selected filter
     if (selected) {
       filteredProducts = filteredProducts.filter(
-        ({ category, color, company, newPrice, title }) =>
+        ({ category, color, brand, newPrice, title }) =>
           category === selected ||
           color === selected ||
-          company === selected ||
+          brand === selected ||
           newPrice === selected ||
           title === selected
       );

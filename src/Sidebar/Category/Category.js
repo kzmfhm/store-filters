@@ -13,26 +13,32 @@ function Category({ handleChange }) {
         </label>
         <Input
           handleChange={handleChange}
-          value="sneakers"
-          title="Sneakers"
+          value="men"
+          title="Men"
           name="test"
         />
         <Input
           handleChange={handleChange}
-          value="flats"
-          title="Flats"
+          value="women"
+          title="Women"
           name="test"
         />
         <Input
           handleChange={handleChange}
-          value="sandals"
-          title="Sandals"
+          value="kids"
+          title="Kids"
           name="test"
         />
         <Input
           handleChange={handleChange}
-          value="heels"
-          title="Heels"
+          value="beauty"
+          title="Beauty"
+          name="test"
+        />
+        <Input
+          handleChange={handleChange}
+          value="home & living"
+          title="Home & Living"
           name="test"
         />
       </div>
