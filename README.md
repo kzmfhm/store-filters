@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run.
+In the project directory, you can run..
 
 ### `npm start`
 
@@ -69,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### ⭐️Support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you!!
