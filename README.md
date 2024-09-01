@@ -69,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### ⭐️Support
 
-Give a ⭐️ if this project helped you.
+Give a ⭐️ if this project helped you..
